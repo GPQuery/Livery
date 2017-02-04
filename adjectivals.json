@@ -1,0 +1,1072 @@
+{
+	"code": 200,
+	"status": "Ok",
+	"copyright": "© 2016–2017 Jonathan Ho <joho@joho.io>",
+	"attributionText": "Data compiled by Jonathan Ho <joho@joho.io> (joho.io). © 2016–2017 Jonathan Ho",
+	"attributionHTML": "Data compiled by Jonathan Ho <a href=\"mailto:joho@joho.io\">joho@joho.io</a> <a href=\"http://joho.io\">joho.io</a>. © 2016–2017 Jonathan Ho",
+	"description": "Country names and adjectivals, for use with GPQuery project",
+	"data": {
+		"offset": 0,
+		"limit": 250,
+		"total": 250,
+		"count": 250,
+		"results": [
+			{
+				"country": "Abkhazia",
+				"adjectival": "Abkhaz"
+			},
+			{
+				"country": "Afghanistan",
+				"adjectival": "Afghan"
+			},
+			{
+				"country": "Albania",
+				"adjectival": "Albanian"
+			},
+			{
+				"country": "Algeria",
+				"adjectival": "Algerian"
+			},
+			{
+				"country": "American Samoa",
+				"adjectival": "American Samoan"
+			},
+			{
+				"country": "Andorra",
+				"adjectival": "Andorran"
+			},
+			{
+				"country": "Angola",
+				"adjectival": "Angolan"
+			},
+			{
+				"country": "Anguilla",
+				"adjectival": "Anguillan"
+			},
+			{
+				"country": "Antarctica",
+				"adjectival": "Antarctica"
+			},
+			{
+				"country": "Antigua and Barbuda",
+				"adjectival": "Antiguan"
+			},
+			{
+				"country": "Argentina",
+				"adjectival": "Argentine"
+			},
+			{
+				"country": "Armenia",
+				"adjectival": "Armenian"
+			},
+			{
+				"country": "Aruba",
+				"adjectival": "Aruban"
+			},
+			{
+				"country": "Australia",
+				"adjectival": "Australian"
+			},
+			{
+				"country": "Austria",
+				"adjectival": "Austrian"
+			},
+			{
+				"country": "Azerbaijan",
+				"adjectival": "Azerbaijani"
+			},
+			{
+				"country": "Bahamas",
+				"adjectival": "Bahamian"
+			},
+			{
+				"country": "Bahrain",
+				"adjectival": "Bahraini"
+			},
+			{
+				"country": "Bangladesh",
+				"adjectival": "Bangladeshi"
+			},
+			{
+				"country": "Barbados",
+				"adjectival": "Barbadian"
+			},
+			{
+				"country": "Belarus",
+				"adjectival": "Belarusian"
+			},
+			{
+				"country": "Belgium",
+				"adjectival": "Belgian"
+			},
+			{
+				"country": "Belize",
+				"adjectival": "Belizean"
+			},
+			{
+				"country": "Benin",
+				"adjectival": "Beninese"
+			},
+			{
+				"country": "Bermuda",
+				"adjectival": "Bermudian"
+			},
+			{
+				"country": "Bhutan",
+				"adjectival": "Bhutanese"
+			},
+			{
+				"country": "Bolivia",
+				"adjectival": "Bolivia"
+			},
+			{
+				"country": "Bonaire",
+				"adjectival": "Bonaire"
+			},
+			{
+				"country": "Bosnia and Herzegovina",
+				"adjectival": "Bosnian"
+			},
+			{
+				"country": "Botswana",
+				"adjectival": "Tswana people"
+			},
+			{
+				"country": "Bouvet Island",
+				"adjectival": "Bouvet Island"
+			},
+			{
+				"country": "Brazil",
+				"adjectival": "Brazilian"
+			},
+			{
+				"country": "British Indian Ocean Territory",
+				"adjectival": "British Indian Ocean Territory"
+			},
+			{
+				"country": "Brunei",
+				"adjectival": "Bruneian"
+			},
+			{
+				"country": "Bulgaria",
+				"adjectival": "Bulgarian"
+			},
+			{
+				"country": "Burkina Faso",
+				"adjectival": "Burkinabé"
+			},
+			{
+				"country": "Burma",
+				"adjectival": "Burmese"
+			},
+			{
+				"country": "Burundi",
+				"adjectival": "Burundian"
+			},
+			{
+				"country": "Cape Verde",
+				"adjectival": "Cape Verdean"
+			},
+			{
+				"country": "Cambodia",
+				"adjectival": "Khmer people"
+			},
+			{
+				"country": "Cameroon",
+				"adjectival": "Cameroonian"
+			},
+			{
+				"country": "Canada",
+				"adjectival": "Canadian"
+			},
+			{
+				"country": "Cayman Islands",
+				"adjectival": "Caymanian"
+			},
+			{
+				"country": "Central African Republic",
+				"adjectival": "Central African"
+			},
+			{
+				"country": "Chad",
+				"adjectival": "Chadian"
+			},
+			{
+				"country": "Chile",
+				"adjectival": "Chilean"
+			},
+			{
+				"country": "China",
+				"adjectival": "Chinese"
+			},
+			{
+				"country": "Taiwan",
+				"adjectival": "Chinese"
+			},
+			{
+				"country": "Christmas Island",
+				"adjectival": "Christmas Island"
+			},
+			{
+				"country": "Cocos (Keeling) Islands",
+				"adjectival": "Cocos (Keeling) Islands"
+			},
+			{
+				"country": "Colombia",
+				"adjectival": "Colombian"
+			},
+			{
+				"country": "Comoros",
+				"adjectival": "Comorian"
+			},
+			{
+				"country": "Democratic Republic of the Congo",
+				"adjectival": "Congolese"
+			},
+			{
+				"country": "Republic of the Congo",
+				"adjectival": "Congolese"
+			},
+			{
+				"country": "Cook Islands",
+				"adjectival": "Cook Island"
+			},
+			{
+				"country": "Costa Rica",
+				"adjectival": "Costa Rican"
+			},
+			{
+				"country": "Croatia",
+				"adjectival": "Croatian"
+			},
+			{
+				"country": "Cuba",
+				"adjectival": "Cuban"
+			},
+			{
+				"country": "Curaçao",
+				"adjectival": "Curaçao"
+			},
+			{
+				"country": "Cyprus",
+				"adjectival": "Cypriot"
+			},
+			{
+				"country": "Czech Republic",
+				"adjectival": "Czech"
+			},
+			{
+				"country": "Ivory Coast",
+				"adjectival": "Ivorian"
+			},
+			{
+				"country": "Denmark",
+				"adjectival": "Danish"
+			},
+			{
+				"country": "Djibouti",
+				"adjectival": "Djiboutian"
+			},
+			{
+				"country": "Dominica",
+				"adjectival": "Demographics of Dominica"
+			},
+			{
+				"country": "Dominican Republic",
+				"adjectival": "Dominican"
+			},
+			{
+				"country": "East Timor",
+				"adjectival": "Timorese"
+			},
+			{
+				"country": "Ecuador",
+				"adjectival": "Ecuadorian"
+			},
+			{
+				"country": "Egypt",
+				"adjectival": "Egyptian"
+			},
+			{
+				"country": "El Salvador",
+				"adjectival": "Salvadoran"
+			},
+			{
+				"country": "England",
+				"adjectival": "English"
+			},
+			{
+				"country": "Equatorial Guinea",
+				"adjectival": "Equatorial Guinean"
+			},
+			{
+				"country": "Eritrea",
+				"adjectival": "Eritrean"
+			},
+			{
+				"country": "Estonia",
+				"adjectival": "Estonian"
+			},
+			{
+				"country": "Ethiopia",
+				"adjectival": "Ethiopian"
+			},
+			{
+				"country": "European Union",
+				"adjectival": "European Union"
+			},
+			{
+				"country": "Falkland Islands",
+				"adjectival": "Falkland Island"
+			},
+			{
+				"country": "Faroe Islands",
+				"adjectival": "Faroese"
+			},
+			{
+				"country": "Fiji",
+				"adjectival": "Fijian"
+			},
+			{
+				"country": "Finland",
+				"adjectival": "Finnish"
+			},
+			{
+				"country": "France",
+				"adjectival": "French people"
+			},
+			{
+				"country": "French Guiana",
+				"adjectival": "French Guianese"
+			},
+			{
+				"country": "French Polynesia",
+				"adjectival": "French Polynesian"
+			},
+			{
+				"country": "French Southern Territories",
+				"adjectival": "French Southern Territories"
+			},
+			{
+				"country": "Gabon",
+				"adjectival": "Gabonese"
+			},
+			{
+				"country": "Gambia",
+				"adjectival": "Gambian"
+			},
+			{
+				"country": "Georgia (country)",
+				"adjectival": "Georgian people"
+			},
+			{
+				"country": "Germany",
+				"adjectival": "German"
+			},
+			{
+				"country": "Ghana",
+				"adjectival": "Ghanaian"
+			},
+			{
+				"country": "Gibraltar",
+				"adjectival": "Gibraltar"
+			},
+			{
+				"country": "United Kingdom",
+				"adjectival": "British"
+			},
+			{
+				"country": "Greece",
+				"adjectival": "Greeks"
+			},
+			{
+				"country": "Greenland",
+				"adjectival": "Greenlandic"
+			},
+			{
+				"country": "Grenada",
+				"adjectival": "Grenadian"
+			},
+			{
+				"country": "Guadeloupe",
+				"adjectival": "Guadeloupe"
+			},
+			{
+				"country": "Guam",
+				"adjectival": "Guamanian"
+			},
+			{
+				"country": "Guatemala",
+				"adjectival": "Guatemalan"
+			},
+			{
+				"country": "Guernsey",
+				"adjectival": "Guernsey"
+			},
+			{
+				"country": "Guinea",
+				"adjectival": "Guinean"
+			},
+			{
+				"country": "Guinea-Bissau",
+				"adjectival": "Guinea-Bissau"
+			},
+			{
+				"country": "Guyana",
+				"adjectival": "Guyanese"
+			},
+			{
+				"country": "Haiti",
+				"adjectival": "Haitian"
+			},
+			{
+				"country": "Heard Island and McDonald Islands",
+				"adjectival": "Heard Island and McDonald Islands"
+			},
+			{
+				"country": "Honduras",
+				"adjectival": "Honduran"
+			},
+			{
+				"country": "Hong Kong",
+				"adjectival": "Hong Kong"
+			},
+			{
+				"country": "Hungary",
+				"adjectival": "Hungarian"
+			},
+			{
+				"country": "Iceland",
+				"adjectival": "Icelandic"
+			},
+			{
+				"country": "India",
+				"adjectival": "Indian"
+			},
+			{
+				"country": "Indonesia",
+				"adjectival": "Indonesian"
+			},
+			{
+				"country": "Iran",
+				"adjectival": "Iranian"
+			},
+			{
+				"country": "Iraq",
+				"adjectival": "Iraqi"
+			},
+			{
+				"country": "Republic of Ireland",
+				"adjectival": "Irish people"
+			},
+			{
+				"country": "Isle of Man",
+				"adjectival": "Manx"
+			},
+			{
+				"country": "Israel",
+				"adjectival": "Israeli"
+			},
+			{
+				"country": "Italy",
+				"adjectival": "Italy"
+			},
+			{
+				"country": "Ivory Coast",
+				"adjectival": "Ivorian"
+			},
+			{
+				"country": "Jamaica",
+				"adjectival": "Jamaican"
+			},
+			{
+				"country": "Jan Mayen",
+				"adjectival": "Jan Mayen"
+			},
+			{
+				"country": "Japan",
+				"adjectival": "Japanese people"
+			},
+			{
+				"country": "Jersey",
+				"adjectival": "Jersey"
+			},
+			{
+				"country": "Jordan",
+				"adjectival": "Jordanian"
+			},
+			{
+				"country": "Kazakhstan",
+				"adjectival": "Kazakhstani"
+			},
+			{
+				"country": "Kenya",
+				"adjectival": "Kenyan"
+			},
+			{
+				"country": "Kiribati",
+				"adjectival": "I-Kiribati"
+			},
+			{
+				"country": "Kosovo",
+				"adjectival": "Kosovar"
+			},
+			{
+				"country": "Kuwait",
+				"adjectival": "Kuwaiti"
+			},
+			{
+				"country": "Kyrgyzstan",
+				"adjectival": "Kyrgyzstani"
+			},
+			{
+				"country": "Laos",
+				"adjectival": "Lao"
+			},
+			{
+				"country": "Latvia",
+				"adjectival": "Latvian"
+			},
+			{
+				"country": "Lebanon",
+				"adjectival": "Lebanese"
+			},
+			{
+				"country": "Lesotho",
+				"adjectival": "Sotho people"
+			},
+			{
+				"country": "Liberia",
+				"adjectival": "Liberian"
+			},
+			{
+				"country": "Libya",
+				"adjectival": "Libyan"
+			},
+			{
+				"country": "Liechtenstein",
+				"adjectival": "Liechtenstein"
+			},
+			{
+				"country": "Lithuania",
+				"adjectival": "Lithuanian"
+			},
+			{
+				"country": "Luxembourg",
+				"adjectival": "Luxembourg"
+			},
+			{
+				"country": "Macau",
+				"adjectival": "Macanese people"
+			},
+			{
+				"country": "Republic of Macedonia",
+				"adjectival": "Macedonian"
+			},
+			{
+				"country": "Madagascar",
+				"adjectival": "Malagasy"
+			},
+			{
+				"country": "Malawi",
+				"adjectival": "Malawian"
+			},
+			{
+				"country": "Malaysia",
+				"adjectival": "Malaysian"
+			},
+			{
+				"country": "Maldives",
+				"adjectival": "Maldivian"
+			},
+			{
+				"country": "Mali",
+				"adjectival": "Malian"
+			},
+			{
+				"country": "Malta",
+				"adjectival": "Maltese"
+			},
+			{
+				"country": "Marshall Islands",
+				"adjectival": "Marshallese"
+			},
+			{
+				"country": "Martinique",
+				"adjectival": "Martiniquais"
+			},
+			{
+				"country": "Mauritania",
+				"adjectival": "Mauritanian"
+			},
+			{
+				"country": "Mauritius",
+				"adjectival": "Mauritian"
+			},
+			{
+				"country": "Mayotte",
+				"adjectival": "Mahoran"
+			},
+			{
+				"country": "Mexico",
+				"adjectival": "Mexican"
+			},
+			{
+				"country": "Federated States of Micronesia",
+				"adjectival": "Micronesian"
+			},
+			{
+				"country": "Moldova",
+				"adjectival": "Moldovan"
+			},
+			{
+				"country": "Monaco",
+				"adjectival": "Monégasque"
+			},
+			{
+				"country": "Mongolia",
+				"adjectival": "Mongolian"
+			},
+			{
+				"country": "Montenegro",
+				"adjectival": "Montenegrin"
+			},
+			{
+				"country": "Montserrat",
+				"adjectival": "Montserratian"
+			},
+			{
+				"country": "Morocco",
+				"adjectival": "Moroccan"
+			},
+			{
+				"country": "Mozambique",
+				"adjectival": "Mozambican"
+			},
+			{
+				"country": "Burma",
+				"adjectival": "Burmese"
+			},
+			{
+				"country": "Namibia",
+				"adjectival": "Namibian"
+			},
+			{
+				"country": "Nauru",
+				"adjectival": "Nauruan"
+			},
+			{
+				"country": "Nepal",
+				"adjectival": "Nepal"
+			},
+			{
+				"country": "Netherlands",
+				"adjectival": "Dutch"
+			},
+			{
+				"country": "New Caledonia",
+				"adjectival": "New Caledonian"
+			},
+			{
+				"country": "New Zealand",
+				"adjectival": "New Zealand"
+			},
+			{
+				"country": "Nicaragua",
+				"adjectival": "Nicaraguan"
+			},
+			{
+				"country": "Niger",
+				"adjectival": "Nigerien"
+			},
+			{
+				"country": "Nigeria",
+				"adjectival": "Nigerian"
+			},
+			{
+				"country": "Niue",
+				"adjectival": "Niuean"
+			},
+			{
+				"country": "Norfolk Island",
+				"adjectival": "Norfolk Island"
+			},
+			{
+				"country": "North Korea",
+				"adjectival": "North Korean"
+			},
+			{
+				"country": "Northern Ireland",
+				"adjectival": "Northern Irish"
+			},
+			{
+				"country": "Northern Mariana Islands",
+				"adjectival": "Northern Marianan"
+			},
+			{
+				"country": "Norway",
+				"adjectival": "Norwegian"
+			},
+			{
+				"country": "Oman",
+				"adjectival": "Omani"
+			},
+			{
+				"country": "Pakistan",
+				"adjectival": "Pakistani people"
+			},
+			{
+				"country": "Palau",
+				"adjectival": "Palauan"
+			},
+			{
+				"country": "State of Palestine",
+				"adjectival": "Palestinian people"
+			},
+			{
+				"country": "Panama",
+				"adjectival": "Panamanian"
+			},
+			{
+				"country": "Papua New Guinea",
+				"adjectival": "Papuan people"
+			},
+			{
+				"country": "Paraguay",
+				"adjectival": "Paraguayan"
+			},
+			{
+				"country": "Peru",
+				"adjectival": "Peruvian"
+			},
+			{
+				"country": "Philippines",
+				"adjectival": "Filipino"
+			},
+			{
+				"country": "Pitcairn Islands",
+				"adjectival": "Pitcairn Islands"
+			},
+			{
+				"country": "Poland",
+				"adjectival": "Polish"
+			},
+			{
+				"country": "Portugal",
+				"adjectival": "Portuguese people"
+			},
+			{
+				"country": "Puerto Rico",
+				"adjectival": "Puerto Rican"
+			},
+			{
+				"country": "Qatar",
+				"adjectival": "Qatar"
+			},
+			{
+				"country": "Romania",
+				"adjectival": "Romanian"
+			},
+			{
+				"country": "Russia",
+				"adjectival": "Russian"
+			},
+			{
+				"country": "Rwanda",
+				"adjectival": "Rwandan"
+			},
+			{
+				"country": "Réunion",
+				"adjectival": "Réunionese"
+			},
+			{
+				"country": "Saba",
+				"adjectival": "Saba"
+			},
+			{
+				"country": "Saint Barthélemy",
+				"adjectival": "Saint Barthélemy"
+			},
+			{
+				"country": "Saint Helena, Ascension and Tristan da Cunha",
+				"adjectival": "Saint Helenian"
+			},
+			{
+				"country": "Saint Kitts and Nevis",
+				"adjectival": "Saint Kitts"
+			},
+			{
+				"country": "Saint Lucia",
+				"adjectival": "Saint Lucian"
+			},
+			{
+				"country": "Collectivity of Saint Martin",
+				"adjectival": "Collectivity of Saint Martin"
+			},
+			{
+				"country": "Saint Pierre and Miquelon",
+				"adjectival": "Saint Pierre and Miquelon"
+			},
+			{
+				"country": "Saint Vincent and the Grenadines",
+				"adjectival": "Saint Vincent and the Grenadines"
+			},
+			{
+				"country": "Samoa",
+				"adjectival": "Samoan"
+			},
+			{
+				"country": "San Marino",
+				"adjectival": "Sammarinese"
+			},
+			{
+				"country": "Saudi Arabia",
+				"adjectival": "Saudi"
+			},
+			{
+				"country": "Scotland",
+				"adjectival": "Scots"
+			},
+			{
+				"country": "Senegal",
+				"adjectival": "Senegalese"
+			},
+			{
+				"country": "Serbia",
+				"adjectival": "Serbian"
+			},
+			{
+				"country": "Seychelles",
+				"adjectival": "Seychelles"
+			},
+			{
+				"country": "Sierra Leone",
+				"adjectival": "Sierra Leone"
+			},
+			{
+				"country": "Singapore",
+				"adjectival": "Singapore"
+			},
+			{
+				"country": "Sint Eustatius",
+				"adjectival": "Sint Eustatius"
+			},
+			{
+				"country": "Sint Maarten",
+				"adjectival": "Sint Maarten"
+			},
+			{
+				"country": "Slovakia",
+				"adjectival": "Slovak"
+			},
+			{
+				"country": "Slovenia",
+				"adjectival": "Slovenia"
+			},
+			{
+				"country": "Solomon Islands",
+				"adjectival": "Solomon Islands"
+			},
+			{
+				"country": "Somalia",
+				"adjectival": "Somalia"
+			},
+			{
+				"country": "Somaliland",
+				"adjectival": "Somalilander"
+			},
+			{
+				"country": "South Africa",
+				"adjectival": "South African"
+			},
+			{
+				"country": "South Georgia and the South Sandwich Islands",
+				"adjectival": "South Georgia and the South Sandwich Islands"
+			},
+			{
+				"country": "South Korea",
+				"adjectival": "South Korean"
+			},
+			{
+				"country": "South Ossetia (Region of Georgia)",
+				"adjectival": "South Ossetian"
+			},
+			{
+				"country": "South Sudan",
+				"adjectival": "South Sudanese"
+			},
+			{
+				"country": "Spain",
+				"adjectival": "Spanish"
+			},
+			{
+				"country": "Sri Lanka",
+				"adjectival": "Sri Lankan"
+			},
+			{
+				"country": "Sudan",
+				"adjectival": "Sudanese"
+			},
+			{
+				"country": "Surinam",
+				"adjectival": "Surinamese"
+			},
+			{
+				"country": "Svalbard",
+				"adjectival": "Svalbard"
+			},
+			{
+				"country": "Swaziland",
+				"adjectival": "Swazi"
+			},
+			{
+				"country": "Sweden",
+				"adjectival": "Swedish"
+			},
+			{
+				"country": "Switzerland",
+				"adjectival": "Swiss"
+			},
+			{
+				"country": "Syria",
+				"adjectival": "Syrian"
+			},
+			{
+				"country": "São Tomé and Príncipe",
+				"adjectival": "São Tomé and Príncipe"
+			},
+			{
+				"country": "Tajikistan",
+				"adjectival": "Tajikistani"
+			},
+			{
+				"country": "Tanzania",
+				"adjectival": "Tanzanian"
+			},
+			{
+				"country": "Thailand",
+				"adjectival": "Thai people"
+			},
+			{
+				"country": "East Timor",
+				"adjectival": "Timorese"
+			},
+			{
+				"country": "Togo",
+				"adjectival": "Togolese"
+			},
+			{
+				"country": "Tokelau",
+				"adjectival": "Tokelau"
+			},
+			{
+				"country": "Tonga",
+				"adjectival": "Tongan"
+			},
+			{
+				"country": "Trinidad and Tobago",
+				"adjectival": "Trinidadian"
+			},
+			{
+				"country": "Tunisia",
+				"adjectival": "Tunisian"
+			},
+			{
+				"country": "Turkey",
+				"adjectival": "Turk"
+			},
+			{
+				"country": "Turkmenistan",
+				"adjectival": "Turkmen people"
+			},
+			{
+				"country": "Turks and Caicos Islands",
+				"adjectival": "Turks and Caicos Islands"
+			},
+			{
+				"country": "Tuvalu",
+				"adjectival": "Tuvaluan"
+			},
+			{
+				"country": "Uganda",
+				"adjectival": "Ugandan"
+			},
+			{
+				"country": "Ukraine",
+				"adjectival": "Ukrainian"
+			},
+			{
+				"country": "United Arab Emirates",
+				"adjectival": "Emirati"
+			},
+			{
+				"country": "United Kingdom",
+				"adjectival": "British"
+			},
+			{
+				"country": "United States",
+				"adjectival": "United States"
+			},
+			{
+				"country": "Uruguay",
+				"adjectival": "Uruguayan"
+			},
+			{
+				"country": "Uzbekistan",
+				"adjectival": "Uzbekistani"
+			},
+			{
+				"country": "Vanuatu",
+				"adjectival": "Ni-Vanuatu"
+			},
+			{
+				"country": "Vatican City",
+				"adjectival": "Vatican City"
+			},
+			{
+				"country": "Venezuela",
+				"adjectival": "Venezuelan"
+			},
+			{
+				"country": "Vietnam",
+				"adjectival": "Vietnamese"
+			},
+			{
+				"country": "British Virgin Islands",
+				"adjectival": "British Virgin Islands"
+			},
+			{
+				"country": "United States Virgin Islands",
+				"adjectival": "United States Virgin Islands"
+			},
+			{
+				"country": "Wales",
+				"adjectival": "Welsh"
+			},
+			{
+				"country": "Wallis and Futuna",
+				"adjectival": "Wallis and Futuna"
+			},
+			{
+				"country": "Western Sahara",
+				"adjectival": "Western Sahara"
+			},
+			{
+				"country": "Yemen",
+				"adjectival": "Yemeni"
+			},
+			{
+				"country": "Zambia",
+				"adjectival": "Zambian"
+			},
+			{
+				"country": "Zimbabwe",
+				"adjectival": "Zimbabwean"
+			},
+			{
+				"country": "Åland Islands",
+				"adjectival": "Åland Islands"
+			}
+		]
+	}
+}

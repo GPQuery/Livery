@@ -1,0 +1,84 @@
+# ===============================
+#   Gitignore by Joho
+# ===============================
+# Version   v0.4.0
+# Author    Jonathan Ho <joho@joho.io>
+# Created   17-May-2016
+# Updated   05-Jan-2017
+# Docs      http://git-scm.com/docs/gitignore
+# ===============================
+
+
+
+
+# -------------------------------
+#   Project-Specific
+# -------------------------------
+
+src/png/
+
+# -------------------------------
+
+
+
+
+# -------------------------------
+#   Node.js/npm
+# -------------------------------
+
+node_modules/
+npm-debug.log
+
+# -------------------------------
+
+
+
+
+# -------------------------------
+#   Build/Runtime/Logs
+# -------------------------------
+
+*.css.map
+*.out
+*.pid
+*.seed
+.deploy/
+.harvest/
+.idea/
+.sass-cache/
+.tmp/
+coverage/
+dist/
+journal/
+lib-cov/
+logs/
+pids/
+public/
+release/
+report/
+results/
+src/release
+
+# -------------------------------
+
+
+
+
+# -------------------------------
+#   Generated & Misc
+# -------------------------------
+
+*~
+*.lnk
+.DS_Store*
+._*
+*.sublime*
+~*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+packages
+ignore
+Thumbs.db
+
+# -------------------------------
